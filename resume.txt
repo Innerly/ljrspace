@@ -1,12 +1,29 @@
-林栖 / 产品设计师
-上海 / 可远程
+Jiaru LI
+Qingdao, China
++86 17860795870 | ljr9504@stu.ouc.edu.cn
 
-工作经历
-2022 - 至今  栖象科技，高级产品设计师
-2019 - 2022  行云网络，体验设计师
+Personal Profile
+Computer Science and Robotics student at Ocean University of China and Heriot-Watt University.
+Research interests: Deep Learning and Robotics.
 
-教育经历
-2015 - 2019  中国美术学院，工业设计学士
+Education
+2023.9 - Present  Ocean University of China, Bachelor of Computer Science
+GPA 3.7/4.0 | Rank 14/102
+2023.9 - Present  Heriot-Watt University, Dual Degree in Robotics
 
-领域：B2B、内容产品、人工智能
-联系：hello@linxi.studio
+Research and Projects
+2026.3 - 2026.5  Autonomous Tennis-Ball Collection Robot
+Ocean University of China
+RoboMaster EP platform, ROS-SDK bridge, odometry-guided GMapping, YOLOv11n (94.2% mAP50), temporal-consistency tracking and a 20 Hz task arbiter.
+
+2025.7 - 2026.2  Application of Deep Learning Methods in Phage Protein Functional Annotation
+University of Electronic Science and Technology of China
+Deep learning methods for phage protein classification. Paper: EAGP, accepted to Bioinformatics (CCF A).
+
+Skills and Tools
+Python, Java, C | IELTS 6.5
+
+Honors and Certifications
+2023 - 2025  Third Prize Scholarship, Ocean University of China
+2023 - 2024  Outstanding Student, Ocean University of China
+2025  First Prize, National College Student Mathematical Modelling Competition
